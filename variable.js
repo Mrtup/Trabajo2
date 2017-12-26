@@ -1,4 +1,5 @@
-var perros = parseInt("10");
-var gatos = 20;
-var total = perros+gatos;
-parseInt(alert(total));
+var nombre = prompt ("introduce tu nombre");
+var apellido = "pineda";
+document.write ("<p>");
+document.write ( nombre + " " + apellido);
+document.write ("</p>");
